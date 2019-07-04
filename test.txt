@@ -7,3 +7,6 @@ this is my first commit
 Second commit
 
 Thanks
+
+
+Done with current
