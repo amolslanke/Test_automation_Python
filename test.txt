@@ -6,7 +6,17 @@ this is my first commit
 
 Second commit
 
+third 
+
+fourth
+
+fifth
+
+six
+
 Thanks
 
+
+Done my changes
 
 Done with current
